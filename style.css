@@ -1,0 +1,64 @@
+-parent{
+
+    display: flex;
+    justify-content: center;
+    border: 10px solid black;
+    width: 150px;
+    height: 250px;
+    margin: 200px;
+    background-color: rgb(255, 255, 255);
+}
+
+.pokemon {
+    background-color: rgb(212, 212, 212);
+    text-align: center;
+    border-radius: 10px;
+    height: 300px;
+    width: 150px;
+    opacity: 100%;
+    box-shadow: 0px 0px 10px grey;
+   
+}
+
+.img-container {
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    padding-top: 5px;
+    
+    
+    
+}
+.number{
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding: auto;
+    margin-top: 10px;
+    background-color: rgb(182, 182, 182);
+    
+
+}
+
+.info {
+    border: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+.Babausaur
+{
+    color: bold black;
+    margin-top: 20px;
+    font-family: "poppins" ,sans-serif;
+}
+
+
+
